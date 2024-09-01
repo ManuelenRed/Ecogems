@@ -1,0 +1,24 @@
+# Dependencias de Node.js
+node_modules/
+package-lock.json
+
+# Archivos de configuración del entorno
+.env
+
+# Directorios y archivos generados
+dist/
+build/
+artifacts/
+cache/
+coverage/
+*.log
+*.tmp
+*.temp
+
+
+# Archivos específicos de IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+

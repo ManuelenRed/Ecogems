@@ -1,4 +1,4 @@
-# Proyecto de NFT y API en la Blockchain "JunglaEsmeraldera"
+# Proyecto de NFT y API en la Blockchain "EcoChainColombia"
 
 [Documentación Completa en Notion](https://florentine-eater-bab.notion.site/IDEA-del-proyecto-d47944fdbb3e4a74863c4fc443fc9f06?pvs=74)
 

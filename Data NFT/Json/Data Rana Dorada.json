@@ -1,0 +1,30 @@
+{
+  "description": "Rana (Phyllobates terribilis) una de las ranas mas venenosas del mundo, son cazadas por usos tradicionales por algunos indigenas o por trafico de mascotas exoticas.", 
+  "image": "ipfs://QmSjPmei1tm3zBZNvAnJyZcbRMj4Fwhn7NKkB7i6bPckuq", 
+  "name": "Rana dorada",
+  "attributes": [
+    {
+      "display_type": "boost_percentage", 	
+      "trait_type": "Daño al oponente", 
+      "value": 2
+    }, 
+    {
+      "display_type": "boost_percentage", 	
+      "trait_type": "Velocidad", 
+      "value": 0
+    }, 
+    {
+      "display_type": "boost_percentage", 	
+      "trait_type": "Defensa", 
+      "value": 0
+    }, 
+    {
+      "trait_type": "Tipo combate", 
+      "value": "A Distancia"
+    }, 
+    {
+      "trait_type": "Lugar origen", 
+      "value": "Cauca y Valle del cauca"
+    }
+  ]
+}

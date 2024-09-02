@@ -1,0 +1,30 @@
+{
+  "description": "El jaguar se encuentra en los bosques húmedos de la selvas amazónicas, los cazadores buscan cazarlos por su piel y partes del cuerpo.", 
+  "image": "ipfs://QmS8nWchGnQKRg1wmJxQQGjrNgoVU8MeuRLeZnP3AutKzp", 
+  "name": "Jaguar",
+  "attributes": [
+    {
+      "display_type": "boost_percentage", 	
+      "trait_type": "Daño al oponente", 
+      "value": 0
+    }, 
+    {
+      "display_type": "boost_percentage", 	
+      "trait_type": "Velocidad", 
+      "value": 2
+    }, 
+    {
+      "display_type": "boost_percentage", 	
+      "trait_type": "Defensa", 
+      "value": 0
+    }, 
+    {
+      "trait_type": "Tipo combate", 
+      "value": "Cuerpo a Cuerpo"
+    }, 
+    {
+      "trait_type": "Lugar origen", 
+      "value": "Amazonas"
+    }
+  ]
+}

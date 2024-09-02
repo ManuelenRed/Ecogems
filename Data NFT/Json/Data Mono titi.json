@@ -1,0 +1,30 @@
+{
+  "description": "Los monos Titis se encuentran principalmente en los bosques humedos y densos , los cazadores lo cazadores los buscan principalemente por trafico de mascotas o destruccion del Habitat", 
+  "image": "ipfs://QmbvBqfP2p4PEPWtiTekHLQAWwotfKTFSNmDeUSTSE3Z9s", 
+  "name": "Mono Titi",
+  "attributes": [
+    {
+      "display_type": "boost_percentage", 	
+      "trait_type": "Daño al oponente", 
+      "value": 1
+    }, 
+    {
+      "display_type": "boost_percentage", 	
+      "trait_type": "Velocidad", 
+      "value": 1
+    }, 
+    {
+      "display_type": "boost_percentage", 	
+      "trait_type": "Defensa", 
+      "value": 0
+    }, 
+    {
+      "trait_type": "Tipo combate", 
+      "value": "Cuerpo a Cuerpo"
+    }, 
+    {
+      "trait_type": "Lugar origen", 
+      "value": "Caribe y Amazonica"
+    }
+  ]
+}

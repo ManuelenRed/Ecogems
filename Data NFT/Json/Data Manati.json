@@ -1,0 +1,30 @@
+{
+  "description": "Es un mamifero acuatico existen tres especies principales, los cazadores los cazan principalmente por su carne y piel.", 
+  "image": "ipfs://QmPGSK1dYo8BjgHdkGEFMs6WgktkkaqzHt1RAXNvDN1Cwu", 
+  "name": "Manati",
+  "attributes": [
+    {
+      "display_type": "boost_percentage", 	
+      "trait_type": "Daño al oponente", 
+      "value": 0
+    }, 
+    {
+      "display_type": "boost_percentage", 	
+      "trait_type": "Velocidad", 
+      "value": 0
+    }, 
+    {
+      "display_type": "boost_percentage", 	
+      "trait_type": "Defensa", 
+      "value": 2
+    }, 
+    {
+      "trait_type": "Tipo combate", 
+      "value": "Cuerpo a Cuerpo"
+    }, 
+    {
+      "trait_type": "Lugar origen", 
+      "value": "Caribe y Amazonica"
+    }
+  ]
+}

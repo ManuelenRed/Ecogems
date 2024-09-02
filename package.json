@@ -4,7 +4,7 @@
   "description": "[Documentación Completa en Notion](https://florentine-eater-bab.notion.site/IDEA-del-proyecto-d47944fdbb3e4a74863c4fc443fc9f06?pvs=74)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js",
     "dev": "nodemon app.js"
   },

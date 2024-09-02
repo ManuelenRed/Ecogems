@@ -1,0 +1,29 @@
+{
+  "description": "", 
+  "image": "ipfs://QmTy8w65yBXgyfG2ZBg5TrfB2hPjrDQH3RCQFJGkARStJb", 
+  "name": "",
+  "attributes": [
+    {
+      "trait_type": "Lugar de origen", 
+      "value": ""
+    },
+    {	
+      "trait_type": "Claridad", 
+      "value": "Transperente, translucido, opaco"
+    }, 
+    {	
+      "trait_type": "Color", 
+      "value": ""
+    }, 
+    {	
+      "trait_type": "Corte", 
+      "value": ""
+    }, 
+    {
+      "trait_type": "Rareza", 
+      "display_value": "Común, Raro, Épico", 
+      "value": 
+
+    }
+  ]
+}

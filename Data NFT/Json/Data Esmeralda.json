@@ -1,0 +1,24 @@
+{
+  "description": "Esmeralda de rio", 
+  "image": "ipfs://QmZPguZ6nGgEpWhPbDSu56tgHcW8oTEp91Gn3CQRxqJch5", 
+  "name": "Muzo Boyaca",
+  "attributes": [
+    {
+      "trait_type": "Lugar de origen", 
+      "value": "Esmeralda de rio"
+    },
+    {	
+      "trait_type": "Claridad", 
+      "value": "Translucido"
+    },
+    {	
+      "trait_type": "Corte", 
+      "value": "De lagrima"
+    }, 
+    {
+      "trait_type": "Rareza", 
+      "display_value": "Común", 
+      "value": 1
+    }
+  ]
+}

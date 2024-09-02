@@ -1,5 +1,4 @@
 // SPDX-License-Identifier: MIT
-// Compatible with OpenZeppelin Contracts ^5.0.0
 pragma solidity ^0.8.20;
 
 import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
@@ -50,17 +49,8 @@ contract MyNFT is ERC721, ERC721Pausable, Ownable, ERC721Burnable, ERC721Enumera
         return _tokenURIs[tokenId];
     }
 
-    // Overrides required by Solidity
-    function _update(address to, uint256 tokenId, address auth)
-        internal
-        override(ERC721, ERC721Pausable)
-        returns (address)
-    {
-        return super._update(to, tokenId, auth);
-    }
-
     // Required for ERC721Enumerable
-    function _beforeTokenTransfer(address from, address to, uint256 tokenId) internal override(ERC721, ERC721Enumerable) {
+    function _beforeTokenTransfer(address from, address to, uint256 tokenId) internal override(ERC721, ERC721Pausable, ERC721Enumerable) {
         super._beforeTokenTransfer(from, to, tokenId);
     }
     
